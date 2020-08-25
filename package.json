@@ -15,7 +15,7 @@
     "core-js": "^3.6.5",
     "cos-js-sdk-v5": "^0.5.26",
     "echarts": "^4.8.0",
-    "highcharts": "^8.1.0",
+    "highcharts": "^8.1.1",
     "jquery": "^3.5.1",
     "jsonp": "^0.2.1",
     "lib-flexible": "^0.3.2",
