@@ -19,7 +19,7 @@
     "jquery": "^3.5.1",
     "jsonp": "^0.2.1",
     "lib-flexible": "^0.3.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "register-service-worker": "^1.7.1",
     "v-charts": "^1.19.0",
     "vue": "^2.6.11",
